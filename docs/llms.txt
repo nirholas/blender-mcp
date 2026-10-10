@@ -1,0 +1,20 @@
+# @three-ws/blender-mcp
+
+> Drive the Blender on your machine from any AI agent, headless. Inspect a 3D file, convert between GLB/glTF/FBX/OBJ/STL/PLY/DAE/USD/Alembic/.blend, render a preview that comes back inline so the assistant can see it, run a bpy script against a scene, and generate a model from a text prompt on the free three.ws Forge lane. Meshopt- and Draco-compressed glTF is decoded automatically. No GUI, no add-on to install, no key.
+
+@three-ws/blender-mcp is a Model Context Protocol server from three.ws. Install: `npx -y @three-ws/blender-mcp`.
+
+## Docs
+
+- [README](https://github.com/nirholas/blender-mcp/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/blender-mcp/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/blender-mcp/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/blender-mcp/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/blender-mcp)
+- [npm](https://www.npmjs.com/package/@three-ws/blender-mcp)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/blender-mcp/issues)
+- [MCP Registry](https://registry.modelcontextprotocol.io/?q=io.github.nirholas%2Fblender-mcp)
